@@ -1,1 +1,1 @@
-#Smile Detector in Python using OpenCV
+# Smile Detector in Python using OpenCV
